@@ -1,4 +1,4 @@
-This project was done in a group where we had to deploy and protect a network infrastructure that would closely resemble something that a medium-sized business would do.
+This project was done in a group where we had to deploy and protect a network infrastructure closely resembling something a medium-sized business would do.
 
 **Services that were deployed are:**
 1. Apache Web Service
@@ -10,4 +10,4 @@ This project was done in a group where we had to deploy and protect a network in
 7. Nextcloud
 8. Web Application Firewall
 
-Zones were created to segregate and protect what is more crucial to the business. Along with the services, multiple machines were deployed and configured to be secure against attacks that are commonly posed as a threat to medium-sized businesses.
+Zones were created to segregate and protect what is more crucial to the business. Along with the services, multiple machines were deployed and configured to be secure against attacks commonly posed as a threat to medium-sized businesses.
